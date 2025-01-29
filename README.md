@@ -1,2 +1,2 @@
 # programming_and_algorithms
-A complete course in programming and algorithms
+A course on programming in Python designed for people with no background in programming or computation. Exercises many solutions are available.
