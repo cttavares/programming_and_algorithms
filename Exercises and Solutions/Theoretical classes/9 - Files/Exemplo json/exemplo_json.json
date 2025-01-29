@@ -1,0 +1,26 @@
+{
+    "name": "João Silva",
+    "age": 30,
+    "email": "joao.silva@example.com",
+    "is_student": false,
+    "skills": ["Python", "JavaScript", "SQL"],
+    "address": {
+      "street": "Rua das Flores",
+      "number": 123,
+      "city": "Lisboa",
+      "postal_code": "1000-001"
+    },
+    "projects": [
+      {
+        "name": "Website Design",
+        "completed": true,
+        "technologies": ["HTML", "CSS", "JavaScript"]
+      },
+      {
+        "name": "Data Analysis",
+        "completed": false,
+        "technologies": ["Python", "Pandas"]
+      }
+    ]
+  }
+  

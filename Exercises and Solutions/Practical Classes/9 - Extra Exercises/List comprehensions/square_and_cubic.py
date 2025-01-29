@@ -1,0 +1,1 @@
+print ([i*i if i%2 == 0 else i*i*i for i in range (0, 10)])

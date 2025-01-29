@@ -1,0 +1,71 @@
+('/Users/carlostavares/Desktop/Engines_of_Creation/Dissemination, Teaching and '
+ 'adivising/Teaching/Programacao e Algoritmos 2023-2024/Assignment/Assignment '
+ '2/Resolution/ex_1/build/ex_1/ex_1',
+ True,
+ False,
+ True,
+ None,
+ None,
+ False,
+ False,
+ None,
+ True,
+ False,
+ 'x86_64',
+ None,
+ None,
+ '/Users/carlostavares/Desktop/Engines_of_Creation/Dissemination, Teaching and '
+ 'adivising/Teaching/Programacao e Algoritmos 2023-2024/Assignment/Assignment '
+ '2/Resolution/ex_1/build/ex_1/ex_1.pkg',
+ [('pyi-contents-directory _internal', '', 'OPTION'),
+  ('PYZ-00.pyz',
+   '/Users/carlostavares/Desktop/Engines_of_Creation/Dissemination, Teaching '
+   'and adivising/Teaching/Programacao e Algoritmos '
+   '2023-2024/Assignment/Assignment 2/Resolution/ex_1/build/ex_1/PYZ-00.pyz',
+   'PYZ'),
+  ('lib-dynload/_struct.cpython-39-darwin.so',
+   '/usr/local/Cellar/python@3.9/3.9.9/Frameworks/Python.framework/Versions/3.9/lib/python3.9/lib-dynload/_struct.cpython-39-darwin.so',
+   'EXTENSION'),
+  ('lib-dynload/zlib.cpython-39-darwin.so',
+   '/usr/local/Cellar/python@3.9/3.9.9/Frameworks/Python.framework/Versions/3.9/lib/python3.9/lib-dynload/zlib.cpython-39-darwin.so',
+   'EXTENSION'),
+  ('struct',
+   '/Users/carlostavares/Desktop/Engines_of_Creation/Dissemination, Teaching '
+   'and adivising/Teaching/Programacao e Algoritmos '
+   '2023-2024/Assignment/Assignment '
+   '2/Resolution/ex_1/build/ex_1/localpycs/struct.pyc',
+   'PYMODULE'),
+  ('pyimod01_archive',
+   '/Users/carlostavares/Desktop/Engines_of_Creation/Dissemination, Teaching '
+   'and adivising/Teaching/Programacao e Algoritmos '
+   '2023-2024/Assignment/Assignment '
+   '2/Resolution/ex_1/build/ex_1/localpycs/pyimod01_archive.pyc',
+   'PYMODULE'),
+  ('pyimod02_importers',
+   '/Users/carlostavares/Desktop/Engines_of_Creation/Dissemination, Teaching '
+   'and adivising/Teaching/Programacao e Algoritmos '
+   '2023-2024/Assignment/Assignment '
+   '2/Resolution/ex_1/build/ex_1/localpycs/pyimod02_importers.pyc',
+   'PYMODULE'),
+  ('pyimod03_ctypes',
+   '/Users/carlostavares/Desktop/Engines_of_Creation/Dissemination, Teaching '
+   'and adivising/Teaching/Programacao e Algoritmos '
+   '2023-2024/Assignment/Assignment '
+   '2/Resolution/ex_1/build/ex_1/localpycs/pyimod03_ctypes.pyc',
+   'PYMODULE'),
+  ('pyiboot01_bootstrap',
+   '/usr/local/lib/python3.9/site-packages/PyInstaller/loader/pyiboot01_bootstrap.py',
+   'PYSOURCE'),
+  ('ex_1',
+   '/Users/carlostavares/Desktop/Engines_of_Creation/Dissemination, Teaching '
+   'and adivising/Teaching/Programacao e Algoritmos '
+   '2023-2024/Assignment/Assignment 2/Resolution/ex_1/ex_1.py',
+   'PYSOURCE')],
+ [],
+ False,
+ False,
+ 1701624726,
+ [('run',
+   '/usr/local/lib/python3.9/site-packages/PyInstaller/bootloader/Darwin-64bit/run',
+   'EXECUTABLE')],
+ '/usr/local/Cellar/python@3.9/3.9.9/Frameworks/Python.framework/Versions/3.9/Python')

@@ -1,0 +1,30 @@
+a806;Homer Potter;homer.potter@u-fake.edu
+a522;Darth Flinstone;darth.flinstone@u-fake.edu
+a350;Mickey Skywalker;mickey.skywalker@u-fake.edu
+a684;SpongeBob Einstein;spongebob.einstein@u-fake.edu
+a560;Elmo Bond;elmo.bond@u-fake.edu
+a850;Bart Sparrow;bart.sparrow@u-fake.edu
+a492;Lisa Vader;lisa.vader@u-fake.edu
+a771;Ronald McYoda;ronald.mcyoda@u-fake.edu
+a280;Minnie Gandalf;minnie.gandalf@u-fake.edu
+a827;Goofy Stark;goofy.stark@u-fake.edu
+a208;Gandalf Skywalker;gandalf.skywalker@u-fake.edu
+a702;Bruce Wayne Potter;bruce.wayne.potter@u-fake.edu
+a341;Sherlock Sponge;sherlock.sponge@u-fake.edu
+a718;Tony Starkfield;tony.starkfield@u-fake.edu
+a698;Indiana Jones Sparrow;indiana.jones.sparrow@u-fake.edu
+a558;Frodo Baggins Bond;frodo.baggins.bond@u-fake.edu
+a595;Clark Kent McYoda;clark.kent.mcyoda@u-fake.edu
+a509;Peter Parker Flintstone;peter.parker.flintstone@u-fake.edu
+a359;Luke Skywalker Potter;luke.skywalker.potter@u-fake.edu
+a178;Anakin Simpson;anakin.simpson@u-fake.edu
+a406;Luís Fernando Veríssimo Potter;luís.fernando.veríssimo.potter@u-fake.edu
+a703;Paulo Coelho Skywalker;paulo.coelho.skywalker@u-fake.edu
+a491;Dom Casmurro Einstein;dom.casmurro.einstein@u-fake.edu
+a874;Clarice Lispector Stark;clarice.lispector.stark@u-fake.edu
+a707;Machado de Assis Sparrow;machado.de.assis.sparrow@u-fake.edu
+a464;Jorge Amado Bond;jorge.amado.bond@u-fake.edu
+a870;Cecília Meireles Vader;cecília.meireles.vader@u-fake.edu
+a698;Vinícius de Moraes McYoda;vinícius.de.moraes.mcyoda@u-fake.edu
+a791;Graciliano Ramos Flintstone;graciliano.ramos.flintstone@u-fake.edu
+a719;Fernando Pessoa Baggins;fernando.pessoa.baggins@u-fake.edu

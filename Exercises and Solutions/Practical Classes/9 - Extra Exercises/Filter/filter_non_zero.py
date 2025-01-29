@@ -1,0 +1,1 @@
+print ([i for i in filter (lambda x: x != 0, range (0, 11))])
